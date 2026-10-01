@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    //font-family: "Titillium Web", sans-serif;
+    font-family: "Noto Sans Tamil Supplement", sans-serif;
+    //font-family: "Montserrat", sans-serif;
+    //font-family: "Fjalla One", sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
